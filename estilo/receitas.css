@@ -1,0 +1,14 @@
+body {
+    font-family: 'Times New Roman', Courier, monospace;
+    font-size: 16px;
+    overflow-y: auto;
+}
+
+main {
+    display: flex;
+    flex-grow: 1;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
